@@ -126,7 +126,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='pub_images/irnet-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='pub_images/irnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Intention reasoning network for multi-domain end-to-end task-oriented dialogue](https://aclanthology.org/2021.emnlp-main.174.pdf)
