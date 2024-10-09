@@ -92,7 +92,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A novel cross-modal associative learning model with anchor points detection and cross-modal associative learning for vision-language pre-training. 
 </div>
 </div>
 
@@ -106,7 +106,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- we introduce a fresh perspective to revisit the fact verification task and propose a novel Global-to-Local Aggregation and Fission Network (GLAF) to capture latent logical relations hidden in evidence clues for more accurate fact verification.
 </div>
 </div>
 
