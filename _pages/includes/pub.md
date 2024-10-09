@@ -134,7 +134,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 **Zhiyuan Ma**, Jianjun Li, Zezheng Zhang, Guohui Li, Yongjing Cheng
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A novel **intention mechanism** to better model deterministic entity knowledge for joint and multi-hop reasoning in multi-domain end-to-end task-oriented dialogue.
 </div>
 </div>
 
