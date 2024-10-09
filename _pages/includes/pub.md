@@ -64,7 +64,7 @@
 Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- An end-to-end generative framework for multi-modal knowledge retrieval by taking advantage of the fact within LLMs can effectively serve as virtual knowledge bases, even when trained with limited data.
 </div>
 </div>
 
@@ -78,7 +78,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A *cloze-* and *verify-* style hybrid prompt framework with bridging language models and human priors in prompt tuning for VQA.
 </div>
 </div>
 
