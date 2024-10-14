@@ -35,7 +35,7 @@
 
 **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Bowen Zhou
 
-[**[Code]**](https://cmt3.research.microsoft.com/api/AAAI2024/Files/55040) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://cmt3.research.microsoft.com/api/AAAI2024/Files/55040) [**[Dataset]**](https://www.image-net.org/download.php)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A simple but faster image reconstruction framework with Latent Masking Diffusion, which stands on the shoulder of *DPMs* and *MAEs*.
 </div>
 </div>
@@ -49,7 +49,7 @@
 
 **Zhiyuan Ma**, Guoli Jia, Bowen Zhou
 
-[**[Code]**](https://cmt3.research.microsoft.com/api/AAAI2024/Files/44774) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://cmt3.research.microsoft.com/api/AAAI2024/Files/44774) [**[Dataset]**](https://cmt3.research.microsoft.com/api/AAAI2024/Files/44774) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A spatio-temporal guided adaptive editing algorithm, which realizes adaptive image editing by introducing a soft-attention strategy to dynamically vary the guiding degree from the editing conditions to visual pixels from both temporal and spatial perspectives.
 </div>
 </div>
@@ -63,7 +63,7 @@
 
 Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
-[**[Code]**](https://github.com/Anonymous/Neural-RDM.) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://github.com/xinwei666/MMGenerativeIR) [**[Dataset]**](https://github.com/xinwei666/MMGenerativeIR/tree/main/dataset/okvqa)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An end-to-end generative framework for multi-modal knowledge retrieval by taking advantage of the fact within LLMs can effectively serve as virtual knowledge bases, even when trained with limited data.
 </div>
 </div>
