@@ -77,7 +77,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
 **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li
 
-[**[Code]**](https://github.com/Anonymous/Neural-RDM.) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://github.com/zhizhi111/hybrid) [**[Dataset]**](https://hf-mirror.com/datasets/HuggingFaceM4/VQAv2)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A *cloze-* and *verify-* style hybrid prompt framework with bridging language models and human priors in prompt tuning for VQA.
 </div>
 </div>
@@ -91,7 +91,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
 **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li
 
-[**[Code]**](https://github.com/Anonymous/Neural-RDM.) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://openreview.net/attachment?id=LA9a1B8wduP&name=supplementary_material) [**[Dataset]**](https://hf-mirror.com/datasets/ranjaykrishna/visual_genome)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel cross-modal associative learning model with anchor points detection and cross-modal associative learning for vision-language pre-training. 
 </div>
 </div>
@@ -105,7 +105,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
 **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li
 
-[**[Code]**](https://github.com/Anonymous/Neural-RDM.) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://www.softconf.com/coling2022/papers/user/scmd.cgi?scmd=getAttachment&passcode=668X-B6A5G4F8F3&fieldid=Supplementary_attachment) [**[Dataset]**](https://www.softconf.com/coling2022/papers/user/scmd.cgi?scmd=getAttachment&passcode=668X-B6A5G4F8F3&fieldid=Supplementary_attachment)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - we introduce a fresh perspective to revisit the fact verification task and propose a novel Global-to-Local Aggregation and Fission Network (GLAF) to capture latent logical relations hidden in evidence clues for more accurate fact verification.
 </div>
 </div>
@@ -133,7 +133,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
 **Zhiyuan Ma**, Jianjun Li, Zezheng Zhang, Guohui Li, Yongjing Cheng
 
-[**[Code]**](https://github.com/Anonymous/Neural-RDM.) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://github.com/Anonymous/irnet.) [**[Dataset]**](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel **intention mechanism** to better model deterministic entity knowledge for joint and multi-hop reasoning in multi-domain end-to-end task-oriented dialogue.
 </div>
 </div>
