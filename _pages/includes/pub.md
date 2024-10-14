@@ -7,7 +7,7 @@
 
 **Zhiyuan Ma**, Liangliang Zhao, Biqing Qi, Bowen Zhou
 
-[**[Code]**](https://github.com/Anonymous/Neural-RDM.) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://openreview.net/attachment?id=NG16csOmcA&name=supplementary_material) [**[Dataset]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - a simple yet meaningful change to the common architecture of deep generative networks by introducing a series of learnable gated residual parameters that conform to the generative dynamics that facilitates effective denoising, dynamical isometry and enables the stable training of extremely deep networks.
 </div>
 </div>
@@ -21,7 +21,7 @@
 
 **Zhiyuan Ma**, Guoli Jia, Biqing Qi, Bowen Zhou
 
-[**[Code]**](https: //github.com/AnonymousPony/safe-sd) [**[Dataset]**](https://github.com/NVlabs/ffhq-dataset) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://openreview.net/attachment?id=KKLB4ZRboY&name=supplementary_material) [**[Dataset]**](https://github.com/NVlabs/ffhq-dataset) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A safe and high-traceable Stable Diffusion framework (namely Safe-SD) to adaptively implant the graphical watermarks (e.g., QR code) into the imperceptible structure-related pixels.
 </div>
 </div>
