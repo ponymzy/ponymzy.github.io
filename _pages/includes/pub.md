@@ -119,7 +119,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
 **Zhiyuan Ma**, Jianjun Li, Guohui Li, Yongjing Cheng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://aclanthology.org/attachments/2022.acl-long.9.software.zip) [**[Dataset]**](https://paperswithcode.com/dataset/mmd)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A unified (vision, language, knowledge..) Transformer semantic representation framework with feature alignment and intention reasoning, referred to UniTranSeR, for multimodal task-oriented dialog systems.
 </div>
 </div>
