@@ -7,7 +7,7 @@
 
 **Zhiyuan Ma**, Liangliang Zhao, Biqing Qi, Bowen Zhou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://github.com/Anonymous/Neural-RDM.) [**[JourneyDB]**](https://hf-mirror.com/datasets/JourneyDB/JourneyDB)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - a simple yet meaningful change to the common architecture of deep generative networks by introducing a series of learnable gated residual parameters that conform to the generative dynamics that facilitates effective denoising, dynamical isometry and enables the stable training of extremely deep networks.
 </div>
 </div>
