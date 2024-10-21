@@ -19,6 +19,8 @@ If you like the template of this homepage, welcome to star and fork the open-sou
 
 {% include_relative includes/pub.md %}
 
+{% include_relative includes/patents.md %}
+
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
